@@ -1,0 +1,5 @@
+[
+    "mani1@gmail.com",
+    "lol@gmail.com",
+    "mani2@gmail.com"
+]
